@@ -1,0 +1,28 @@
+<html>
+   <head>
+       <style>
+           h1{
+                color: cadetblue;
+                background-color: burlywood;
+            }
+            h1:hover{
+                color: cornflowerblue;
+                background-color: aquamarine;
+            }
+            p{
+                color: blue;
+                background-color: brown;
+            }
+            p:hover{
+                color: beige;
+                background-color: yellowgreen;
+            }
+       </style>
+   </head>
+   <body>
+       <h1>About me</h1>
+       <p>
+           Hi my name is akshaj kakoori. today I am going to tell about myself. so my birthday is on June 29th.I was born in telengana,India in 2012 my mother tongue is telugu and my hobbies are swmming and coding. thank you.
+       </p>
+   </body>
+</html>
